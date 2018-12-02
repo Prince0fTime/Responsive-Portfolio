@@ -151,7 +151,7 @@
     .col-2 {
         z-index: 0;
         position: relative;
-        float: left;
+        float: none;
         clear: right;
         margin-left: 0px;
         display: inline-block;
